@@ -3,8 +3,16 @@ Chest X-ray (CXR) is a widely performed radiology examination that helps to dete
 
 ![alt text](Fig_1_graphical_abstract_tif.png)
 
-The following bone suppression models are proposed in this study. For details regarding the model arcitecture and hyperparameters, plese refer to our ArXiv study available at:
+# Prerequisites:
+Keras >= 2.4.0
 
+Tensorflow-GPU >= 1.9.0
+
+OpenCV >= 3.3
+
+Matlab >= R2021b
+
+The following bone suppression models are proposed in this study. For details regarding the model arcitecture and hyperparameters, plese refer to our ArXiv study available at:
 
 ## AUtoencoder model with separable convolutions
 
@@ -23,5 +31,6 @@ The following bone suppression models are proposed in this study. For details re
 ## Sample bone suppression images predicted by the proposed models
 ![alt text](Fig_6_BS_images_tif.png)
 
+The repository inclues the Python code to reproduce the results proposed in this study. 
 
 
