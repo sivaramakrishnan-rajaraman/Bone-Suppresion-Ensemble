@@ -14,7 +14,7 @@ Matlab >= R2021b
 
 The following bone suppression models are proposed in this study. For details regarding the model arcitecture and hyperparameters, plese refer to our ArXiv study available at:
 
-## AUtoencoder model with separable convolutions
+# Autoencoder model with separable convolutions
 
 ![alt text](Fig_2_AE_BS_tif.png)
 
