@@ -18,23 +18,23 @@ The following bone suppression models are proposed in this study. For details re
 
 ![alt text](Fig_2_AE_BS_tif.png)
 
-## ResNet model with residual scaling
+# Residual lock-based model with residual scaling
 ![alt text](Fig_3_ResNet_BS_tif.png)
 
-## U-Net and FPN-based models
+# U-Net and FPN-based models
 ![alt text](Fig_4_UNET-FPN-BS_tif.png)
 
 
-## Block diagram of the proposed bone suppression ensemble approach
+# Block diagram of the proposed bone suppression ensemble approach
 ![alt text](Fig_5_BS_ensemble_tif.png)
 
-## Sample bone suppression images predicted by the proposed models
+# Sample bone suppression images predicted by the proposed models
 ![alt text](Fig_6_BS_images_tif.png)
 
-## CRM-based visualization
+# CRM-based visualization
 ![alt text](Fig_10_CRM_visualization.png)
 
 
-The repository inclues the Python code to reproduce the results proposed in this study. 
+The repository contains the Python code to reproduce the results proposed in this study. 
 
 
