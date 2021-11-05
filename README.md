@@ -31,6 +31,10 @@ The following bone suppression models are proposed in this study. For details re
 ## Sample bone suppression images predicted by the proposed models
 ![alt text](Fig_6_BS_images_tif.png)
 
+## CRM-based visualization
+![alt text](Fig_10_CRM_visualization.png)
+
+
 The repository inclues the Python code to reproduce the results proposed in this study. 
 
 
