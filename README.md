@@ -3,6 +3,8 @@ Chest X-ray (CXR) is a widely performed radiology examination that helps to dete
 
 The following bone suppression models are proposed in this study. For details regarding the model arcitecture and hyperparameters, plese refer to our ArXiv study available at:
 
+<img src="Fig_1_graphical_abstract_tif.png" width="100" height="100">
+
 ![alt text](Fig_1_graphical_abstract_tif.png)
 
 ![alt text](Fig_2_AE_BS_tif.png)
