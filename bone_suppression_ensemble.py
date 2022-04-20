@@ -570,7 +570,7 @@ The MS-SSIM measure is computed between the predicted and ground truth images
 using the following matlab script 
 
 clear
-path = ['C:\Users\<your folder>']; %this folder contains two separate folders one is gt with ground turth and the other with predicted data
+path = ["C:\\Users\\<your folder>"]; %this folder contains two separate folders one is gt with ground turth and the other with predicted data
 files1 = dir([path filesep 'ae']); %prediction data folder
 k=1;
 for imgs = 1:length(files1)
@@ -636,7 +636,7 @@ for temp1 = 1:length(x_dir)-1
 end
 
 %%
-path = ['C:\Users\xx\codes\predictions'];
+path = ["C:\\Users\\xx\\codes\\predictions'];
 files1 = dir([path filesep 'gt']); 
 
 for imgs = 3:length(files1)
