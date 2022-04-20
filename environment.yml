@@ -1,0 +1,12 @@
+name: Ramakrishnan_Rajaraman_2022
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - keras>=2.4.0
+  - matlab_kernel
+  - opencv>=3.3.0
+  - python
+  - tensorflow-gpu
+
